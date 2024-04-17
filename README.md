@@ -6,5 +6,5 @@ This repository contains all of the notes taken by [Ralph](https://github.com/rl
 
 ## Table of Contents
 
-- [Week 1](/Week1)
-  - [Day 1](/Week1/Day_1)
+- [Week 1](/Week_1)
+  - [Day 1](/Week_1/Day_1)
